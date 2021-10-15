@@ -1,7 +1,7 @@
 export const theme = {
-  bg: 'black',
+  bg: '#08070f',
   grey: '#3a3d40',
-  toDoBg: '#5c5c60',
+  toDoBg: '#363445',
   white: 'white',
 };
 

@@ -357,7 +357,7 @@ const styles = (dark) =>
       marginTop: 100,
     },
     progressBar: {
-      backgroundColor: dark ? 'white' : 'teal',
+      backgroundColor: dark ? 'white' : '#B9B7BD',
       height: 10,
       flexDirection: 'row',
       width: '100%',
@@ -365,7 +365,7 @@ const styles = (dark) =>
       marginVertical: 20,
     },
     input: {
-      backgroundColor: dark ? 'white' : 'teal',
+      backgroundColor: dark ? '#b3b1c4' : '#B9B7BD',
       marginVertical: 10,
       paddingHorizontal: 20,
       paddingVertical: 15,
@@ -386,7 +386,7 @@ const styles = (dark) =>
       flex: 1,
     },
     toDoText: {
-      color: dark ? 'white' : 'gold',
+      color: dark ? 'white' : '#4C5270',
       fontSize: 16,
       fontWeight: '500',
     },
